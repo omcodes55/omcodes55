@@ -82,7 +82,7 @@ Professional wedding photography and cinematography website.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omcodes55&theme=tokyonight&hide_border=true"/>
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=omcodes55&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=omcodes55&theme=tokyonight&hide_border=true)"/>
 
 </div>
 
@@ -92,7 +92,7 @@ Professional wedding photography and cinematography website.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=omcodes55&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=omcodes55&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
